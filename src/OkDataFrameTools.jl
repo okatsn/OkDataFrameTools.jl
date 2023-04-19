@@ -4,4 +4,7 @@ module OkDataFrameTools
 using DataFrames
 include("viewgroup.jl")
 export viewgroup
+
+include("dropnan.jl")
+export dropnanmissing!
 end
