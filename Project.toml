@@ -1,7 +1,7 @@
 name = "OkDataFrameTools"
 uuid = "44fb8f6e-77e3-42fb-a351-fd44f2ba0634"
 authors = ["okatsn <okatsn@gmail.com> and contributors"]
-version = "0.1.2"
+version = "0.2.0"
 
 [deps]
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
